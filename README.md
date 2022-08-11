@@ -1,0 +1,5 @@
+# VirtualMouse
+
+openCV
+mediapip
+pyautoGUI
